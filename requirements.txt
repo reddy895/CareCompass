@@ -1,0 +1,10 @@
+# Setuptools constraint required by llama-index-legacy for pkg_resources compatibility
+setuptools<81
+pandas
+pyarrow
+fsspec
+huggingface_hub
+datasets
+sqlalchemy-iris
+llama_iris
+llama-index-legacy
